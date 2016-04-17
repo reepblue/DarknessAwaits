@@ -1,0 +1,18 @@
+//Leadwerks Material File
+
+blendmode=0
+castshadows=1
+zsort=0
+cullbackfaces=1
+depthtest=1
+depthmask=1
+diffuse=1.00000000,0.819607854,0.643137276,1.00000000
+specular=0.501960814,0.501960814,0.501960814,0.501960814
+alwaysuseshader=0
+mappingscale=1.00000000,1.00000000,1.00000000
+drawmode=-1
+
+shader="Shaders/Model/diffuse+normal+specular.shader"
+texture0="./cratesblocks_diff.tex"
+texture1="./cratesblocks_dot3.tex"
+texture2="./cratesblocks_spec.tex"
