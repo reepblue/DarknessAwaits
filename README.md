@@ -28,4 +28,4 @@ I found the old install of the 3.0 demo that included assets from the old sample
 
 Install it under ...\Steam\steamapps\common\Leadwerks Game Engine\Templates. Should work on both Windows and Linux. I ported this project due to the fact I felt like this game showed how to make a simple menu/startscreen in Lua without needing FlowGUI, LEX, or other things.  
 
-Also another reminder that I just did the port/fixes. "Darkness Awaits" was originally created by Josh, Chris Vossen, and other members who where involved. Again, I did this out of curiosity, and I thought it would benefit the community if it was re-released as a template. If you have any problems, let me know.
+Also another reminder that I just did the port/fixes. "Darkness Awaits" was originally created by Josh Klint, Chris Vossen, Rich Digiovanni, and other members who where involved. Again, I did this out of curiosity, and I thought it would benefit the community if it was re-released as a template. If you have any problems, let me know.
